@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Algobank.iml" filepath="$PROJECT_DIR$/.idea/Algobank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backtracking/backtracking.iml" filepath="$PROJECT_DIR$/backtracking/backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bit_manipulation/bit_manipulation.iml" filepath="$PROJECT_DIR$/bit_manipulation/bit_manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/divide_and_conquer/divide_and_conquer.iml" filepath="$PROJECT_DIR$/divide_and_conquer/divide_and_conquer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic_programming/dynamic_programming.iml" filepath="$PROJECT_DIR$/dynamic_programming/dynamic_programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graph/graph.iml" filepath="$PROJECT_DIR$/graph/graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greedy_algorithms/greedy_algorithms.iml" filepath="$PROJECT_DIR$/greedy_algorithms/greedy_algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/hashing.iml" filepath="$PROJECT_DIR$/hashing/hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heap/heap.iml" filepath="$PROJECT_DIR$/heap/heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/linkedlist/linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedlist_recursive/linkedlist_recursive.iml" filepath="$PROJECT_DIR$/linkedlist_recursive/linkedlist_recursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maths/maths.iml" filepath="$PROJECT_DIR$/maths/maths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrix/matrix.iml" filepath="$PROJECT_DIR$/matrix/matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue/queue.iml" filepath="$PROJECT_DIR$/queue/queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searching/searching.iml" filepath="$PROJECT_DIR$/searching/searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings/strings.iml" filepath="$PROJECT_DIR$/strings/strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trees/trees.iml" filepath="$PROJECT_DIR$/trees/trees.iml" />
+    </modules>
+  </component>
+</project>
